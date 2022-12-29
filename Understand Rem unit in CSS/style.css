@@ -1,0 +1,14 @@
+ html{
+    font-size: 10px;
+    /* this html is apply to all html body  */
+    /* them rem will multipy accoding to html */
+    /* 62.5%==10px */
+    /* 62.5% best coz if we uncrese out  font size on out desktop then in our website the font wil be increse for the user in his desktp but if we set 10 px or any px then this is not happen coz px is absolut and absolute value are not changeable */
+ }
+ .box1{
+    /* 2rem,is 2multiplication of default size of root element or html */
+    font-size: 2rem;
+ }
+.text-content{
+    font-size: 3rem;
+}

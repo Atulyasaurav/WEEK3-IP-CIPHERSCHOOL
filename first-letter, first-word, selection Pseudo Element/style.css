@@ -1,0 +1,13 @@
+/* first letter and first line pseudo workks with only block lvl elements */
+
+p::first-letter{
+    font-size: 30px;
+}
+p::first-line{
+    font-size: 100px;
+}
+/* THIS WILL WORK WHEN YOU MARK AUR HIGHLISGH THE TEXT LIKE COPY */
+::selection{
+    color: yellowgreen;
+    background-color: black;
+}

@@ -1,0 +1,11 @@
+/* for adding a content before and after any content we use the beforre and after psudo element (before and after) */
+/* pseudo element is an inline element */
+.a::before{
+    content: " hello ";
+    display: block;
+    color: gold;
+    border: 1px dotted blanchedalmond;
+    margin-top: 5px;
+    padding: 5px;
+}
+/* we can't we it with img,br,hr,input who does not have there content */

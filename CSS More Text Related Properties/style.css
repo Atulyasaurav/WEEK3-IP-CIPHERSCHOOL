@@ -1,0 +1,11 @@
+h1{
+    letter-spacing: 4px;
+    font-size: 50px;
+    text-decoration: overline red;
+}
+p{
+    font-size: xx-large;
+    line-height: 30px;
+    word-spacing: 8px;
+    letter-spacing: 1in;
+}

@@ -1,0 +1,30 @@
+/* not pseudo represent not select those element */
+/* body :not(p){
+    background-color: black;
+    color: yellowgreen;
+} */
+/* body :not(.a){
+    color : red;
+    background-color: aqua;
+}  */
+
+/* this empty pseudo represent those eleme?nt are empty he wil work with element */
+/* div:empty{
+    color: greenyellow;
+    border: 10px solid orangered;
+    height: 100px;
+    width: 100px;
+}
+.a{
+    color: greenyellow
+} */
+
+/* root is equal to html but specificity of root is high than html */
+:root{
+    background-color: blueviolet;
+    color: greenyellow
+}
+
+html{
+    background-color: red;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color : orangered
+}
+.container1{
+    color : whitesmoke
+}
+span{
+    color: blue;
+}
+.container2{
+    color : green
+}
+a{
+    color: red;
+    text-decoration-line: none;
+}

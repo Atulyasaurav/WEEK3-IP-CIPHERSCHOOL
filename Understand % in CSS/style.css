@@ -1,0 +1,12 @@
+div{
+    border: 2px solid orangered;
+    font-size: 32px;
+}
+p{
+
+    /* this is a 200% of 16 px = 32pxz */
+    font-size: 200%;
+    border: 2px solid green;
+    width: 50%;
+    margin-left: 25%;
+}

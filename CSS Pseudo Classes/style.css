@@ -1,0 +1,21 @@
+a:link{
+
+    color:black
+}
+a:visited{
+    color:green
+}
+a:hover{
+    color: red
+}
+a:active{
+    color:aqua
+}
+input:focus{
+    padding: 5px;
+    outline: none;
+    border : 2 px solid green
+}
+input:required{
+    color: red
+}

@@ -1,0 +1,9 @@
+h1{
+    border: 2px solid red;
+    background-color: black;
+    color: greenyellow;
+    /* this will auto adjust the page of the content  */
+    /* vw - view width */
+    /* the adjust accouding to your screen */
+    width: 50vw;
+}

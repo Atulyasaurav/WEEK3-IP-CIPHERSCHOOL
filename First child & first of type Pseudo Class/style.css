@@ -1,0 +1,10 @@
+p:first-child{
+    /* first child should be p in any container */
+    color: red
+}
+
+p:first-of-type{
+    /* any container first child be p either it is sec */
+
+    color: red
+}
